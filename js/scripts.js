@@ -7,7 +7,7 @@
 window.onload = function() {
 
   var messagesEl = document.querySelector('.messages');
-  var typingSpeed = 40;
+  var typingSpeed = 100;
   var loadingText = '<b>•</b><b>•</b><b>•</b>';
   var messageIndex = 0;
 
@@ -23,7 +23,7 @@ window.onload = function() {
 
   var messages = [
     'hola!👋',
-    'i’m darpan, an entreprenuer, product designer and consultant. <br> i work at the intersection of Product, Design, and Market.',
+    'i’m darpan, an entrepreneur, product designer and consultant. <br> i work at the intersection of Product, Design, and Market.',
     'my mission is to help startups build meaningful products and deliver it to the right audiences.',
     'i like sharing my thoughts on Business, Design, Philosophy and Systems Design',
     'i’m excited to co-create something awesome. cheers!'
