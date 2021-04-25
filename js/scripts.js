@@ -7,7 +7,7 @@
 window.onload = function() {
 
   var messagesEl = document.querySelector('.messages');
-  var typingSpeed = 20;
+  var typingSpeed = 40;
   var loadingText = '<b>•</b><b>•</b><b>•</b>';
   var messageIndex = 0;
 
@@ -22,11 +22,10 @@ window.onload = function() {
   }
 
   var messages = [
-    'hey there 👋',
-    'i’m darpan, the founder of aurik.design. <br> aurik.design is a purpose-led, value-based interaction design startup.',
-    'this is a temporary website while our full-fledged one gets built. we provide visual design services including Logos, E-Commerce platforms, Websites, Packaging and Social Media Posts.',
-    'you can see our work at <a target="_blank" href="https://instagram.com/aurik.design">instagram.com/aurik.design</a>',
-    'you can reach out to me at d@aurik.design and 84314 11540 <br>',
+    'hola!👋',
+    'i’m darpan, an entreprenuer, product designer and consultant. <br> i work at the intersection of Product, Design, and Market.',
+    'my mission is to help startups build meaningful products and deliver it to the right audiences.',
+    'i like sharing my thoughts on Business, Design, Philosophy and Systems Design',
     'i’m excited to co-create something awesome. cheers!'
   ]
 
